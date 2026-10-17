@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Project_MARS.Application/Project_MARS.Application.csproj" />
+  <Project Path="Project_MARS.ApplicationTest/Project_MARS.ApplicationTest.csproj" Id="e1daee07-81c0-4a1a-bbac-cfe4bc25a9f3" />
+  <Project Path="Project_MARS.Domain/Project_MARS.Domain.csproj" />
+  <Project Path="Project_MARS.Infrastructure/Project_MARS.Infrastructure.csproj" />
+  <Project Path="Project_MARS.WebApi/Project_MARS.WebApi.csproj" />
+</Solution>
